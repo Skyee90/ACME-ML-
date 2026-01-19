@@ -64,6 +64,36 @@ Beginner-level learning project.
 Improvements and feedback are welcome.
 
 
+# Rain Prediction using Machine Learning
+
+This is a beginner-level machine learning project where I worked on predicting whether it will rain tomorrow using historical weather data.
+
+The project is part of my learning journey as a first-year Computer Science student.
+
+## Project Overview
+- Problem: Predict **RainTomorrow (Yes/No)**
+- Dataset: Rain in Australia (Kaggle)
+- Approach: Classification using Decision Trees and Random Forests
+- Goal: Learn the complete machine learning workflow
+
+## What I Learned
+- Data preprocessing (handling missing values, scaling, encoding)
+- Train / validation / test split based on time
+- Training and evaluating Decision Tree models
+- Understanding overfitting and hyperparameter tuning
+- Using Random Forests to improve model performance
+- Feature importance and model evaluation
+
+## Tools Used
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- scikit-learn
+
+## Project Status
+Beginner learning project.  
+Focused on understanding concepts rather than optimization.
 
 
 
