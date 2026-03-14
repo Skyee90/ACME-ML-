@@ -93,7 +93,7 @@ The project is part of my learning journey as a first-year Computer Science stud
 
 ## Project Status
 Beginner learning project.  
-Focused on understanding concepts rather than optimization.
+Focused on understanding concepts rather than optimization...
 
 
 
