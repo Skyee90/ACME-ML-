@@ -95,6 +95,135 @@ The project is part of my learning journey as a first-year Computer Science stud
 Beginner learning project.  
 Focused on understanding concepts rather than optimization...
 
+# Machine Learning Project – End-to-End Workflow on Structured Data
 
+This repository contains a beginner-to-intermediate level machine learning project where I explored the complete end-to-end workflow of building a model using structured/tabular data.
+
+This project is part of my learning journey as a first-year Computer Science student, focusing on understanding how machine learning works in practice rather than just applying models.
+
+---
+
+## 📌 Project Objective
+
+The goal of this project is to understand and implement the full machine learning pipeline, including:
+
+- Data understanding
+- Data preprocessing
+- Feature engineering
+- Model training
+- Model evaluation
+- Generating final predictions
+
+---
+
+## ⚙️ Workflow Overview
+
+### 1. Data Understanding
+- Explored the dataset structure and features
+- Identified input features and target variable
+- Analyzed missing values and data types
+
+---
+
+### 2. Data Preprocessing
+- Handled missing values using appropriate strategies
+- Converted categorical variables using encoding techniques
+- Scaled numerical features for better model performance
+- Cleaned and structured the dataset for training
+
+---
+
+### 3. Feature Engineering
+- Created new features from existing data (including date-based features)
+- Selected relevant features for model training
+- Improved data representation for better learning
+
+---
+
+### 4. Baseline Approach
+- Started with simple baseline ideas (e.g., average-based predictions)
+- Used baseline performance as a reference for model improvement
+
+---
+
+### 5. Model Training
+- Trained multiple models including:
+  - Linear Regression (for baseline understanding)
+  - Tree-based models (for better performance on structured data)
+- Compared model behavior and performance
+
+---
+
+### 6. Validation Strategy
+- Split data into training and validation sets
+- Evaluated models on validation data instead of relying only on training results
+- Avoided overfitting by comparing performance across datasets
+
+---
+
+### 7. Evaluation Metrics
+- Used RMSE (Root Mean Squared Error) for model evaluation
+- Understood how to compute RMSE using:
+  sqrt(MSE)
+- Focused on interpreting model errors properly
+
+---
+
+### 8. Prediction & Submission
+- Generated predictions on unseen/test data
+- Created a submission file in the required format
+- Verified output correctness by previewing results
+
+---
+
+### 9. Debugging & Practical Learning
+- Fixed errors related to library compatibility
+- Handled notebook execution issues
+- Adapted code to work in a local environment (Windows)
+- Improved problem-solving and debugging skills
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- scikit-learn
+
+---
+
+## 📊 Key Learnings
+
+- Understanding the **full ML pipeline is more important than just applying models**
+- Data preprocessing and feature engineering have a major impact on performance
+- Simple baseline approaches help in building better models
+- Validation is essential to avoid misleading results
+- Debugging and experimentation are a big part of real-world machine learning
+
+---
+
+## 📈 Project Status
+
+This is a **learning-focused project** aimed at building strong fundamentals in machine learning.
+
+Future improvements may include:
+- Trying more advanced models
+- Better feature selection
+- Hyperparameter tuning
+- Cross-validation techniques
+
+---
+
+## 🚀 Conclusion
+
+This project helped me move from just running machine learning models to actually understanding how different parts of the pipeline connect and impact the final results.
+
+---
+
+## 🤝 Feedback
+
+Suggestions, improvements, and feedback are always welcome!
 
 
